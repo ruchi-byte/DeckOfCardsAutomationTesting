@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ApiTesting.TestingApis" duration-ms="6005" started-at="2020-04-17T19:33:14Z" finished-at="2020-04-17T19:33:20Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6005" started-at="2020-04-17T19:33:14Z" finished-at="2020-04-17T19:33:20Z">
+      <class name="ApiTesting.TestingApis">
+        <test-method status="PASS" signature="gettingNewDeck()[pri:0, instance:ApiTesting.TestingApis@edf4efb]" name="gettingNewDeck" duration-ms="3135" started-at="2020-04-17T15:33:14Z" finished-at="2020-04-17T15:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingNewDeck -->
+        <test-method status="PASS" signature="addingJockers()[pri:0, instance:ApiTesting.TestingApis@edf4efb]" name="addingJockers" duration-ms="1485" started-at="2020-04-17T15:33:17Z" finished-at="2020-04-17T15:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingJockers -->
+        <test-method status="PASS" signature="DrawingCard()[pri:0, instance:ApiTesting.TestingApis@edf4efb]" name="DrawingCard" duration-ms="1374" started-at="2020-04-17T15:33:19Z" finished-at="2020-04-17T15:33:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DrawingCard -->
+      </class> <!-- ApiTesting.TestingApis -->
+    </test> <!-- Command line test -->
+  </suite> <!-- ApiTesting.TestingApis -->
+</testng-results>
